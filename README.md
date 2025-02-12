@@ -1,1 +1,1 @@
-##Hibernate HQL
+# Hibernate HQL
